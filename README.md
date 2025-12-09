@@ -1,4 +1,4 @@
-# 🧠 FormSaver — Never Lose Your Answers Again
+# 🧠 FormSaver: Never Lose Your Answers Again
 
 > A lightweight browser extension that **auto-saves everything you type in online forms** and lets you restore it anytime.
 
@@ -21,7 +21,7 @@ Built after losing hours of assignment answers due to session timeout and auto-l
 - Browser restarts  
 
 ✅ One-click restore  
-✅ 100% local — no data leaves your system  
+✅ 100% local: no data leaves your system  
 ✅ No tracking, no cloud, no nonsense  
 
 ---
