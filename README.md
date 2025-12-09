@@ -32,7 +32,7 @@ Built after losing hours of assignment answers due to session timeout and auto-l
 
 ### 👉 Install in Chrome / Edge / Brave
 
-[⬇️ Download FormSaver](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/archive/refs/heads/main.zip)
+[⬇️ Download FormSaver](https://github.com/thekrishnajeena/Form-Saver/raw/refs/heads/main/main.zip)
 
 After download:
 
